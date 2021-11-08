@@ -15,4 +15,9 @@ go_per_trt.R.
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   _Saving CSV file per treatment in a loop, heatmap of each treatment._ <br/>
 correlation_cell.R.   
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   _Given significant markers, correlation of differenct cell type._ <br/>
- 
+purify_pca.R.   
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;    _Residual plot , fit PC of Treg by PC of Cd8 in different treatment groups._<br/>
+PurifyMarkers.R.   
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; _Purify sig markers from Atlas._ <br/>
+NGS3953_purify_gene.R.  
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; _Avg expression value of cell type, pheno boxplot side by side among treatment._ <br/> 
