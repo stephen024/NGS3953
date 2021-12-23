@@ -3,6 +3,8 @@ BulkRNAseq-STAMP
 ### Description 
 ex_new_bulk.R     
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;  _Provided that Excel file, copy cells in a range by hand for reading data._ <br/>
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   _Darya_tsv_excel_eset data._<br/>
+
 new_bulk.R        
 &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;   _Inspect input from Excel file, run differential expression analysis for treatment\_phenotype contrast._ <br/> 
 contrast_a.R    
